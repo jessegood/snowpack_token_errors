@@ -1,0 +1,16 @@
+{
+  "name": "snowpack_token_errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pdfjs-dist": "^2.13.216",
+    "snowpack": "^3.8.8"
+  }
+}
